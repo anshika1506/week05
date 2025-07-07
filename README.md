@@ -11,5 +11,5 @@ A full-featured Spotify clone music app built with **React**, **Tailwind CSS**, 
 - 🎨 Clean and responsive design using Tailwind CSS
 - ⚡ Fast build with Vite
 
-## 📁 Project Structure
+
 
